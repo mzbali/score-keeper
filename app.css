@@ -1,0 +1,12 @@
+#mt{
+    margin-top: 15px;
+}
+.lose {
+    color: red;
+}
+.win {
+    color: green;
+}
+.draw{
+    color: yellowgreen;
+}
